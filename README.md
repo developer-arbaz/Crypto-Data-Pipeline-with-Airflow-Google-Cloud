@@ -148,13 +148,6 @@ Looker Dashboard (Visualization)
 4. Deploy Airflow DAG in Composer  
 
 ---
-
-## 📸 Screenshots
-
-(Add screenshots here: Airflow DAG, BigQuery, Looker Dashboard)
-
----
-
 ## 📈 Future Enhancements
 
 - Add more cryptocurrencies  
